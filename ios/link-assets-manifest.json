@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "BalaminflowSourGd/MinguifloerAssts/DirectoryOfGuideFontsBalance/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "BalaminflowSourGd/MinguifloerAssts/DirectoryOfGuideFontsBalance/Montserrat-SemiBold.ttf",
+      "sha1": "d491c9d0af61faef59ca807737b560170f547f5b"
+    },
+    {
+      "path": "BalaminflowSourGd/MinguifloerAssts/DirectoryOfGuideFontsBalance/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
